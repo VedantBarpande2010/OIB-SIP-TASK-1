@@ -104,8 +104,8 @@ class ORSmain
 
             if(b == true)
             {
-                System.out.println("...Choose Train...\n 1.Thirumala Express\n 2.Krishna Express\n3.Nagavalli Express\n4.Ajantha Express\n5.Rajdhani Express\n6.Rayalasima Express");
-                int Option = sc.nextInt();
+                System.out.println("...Choose Train...\n 1.GARIBRATH EXPRESS\n 2.RAJDHANI EXPRESSs\n3.VANDE BHARAT \n4.DURONTO EXPRESS\n5.AZAD HIND EXPRESS\n6.SHATABDI EXPRESS");
+
                 switch(Option)
                 {
                     case 1:
